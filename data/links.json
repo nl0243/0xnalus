@@ -1,0 +1,167 @@
+{
+  "urlArray":
+  [
+    {
+    "name": "Ethernauts",
+    "value": "https://ethernaut.openzeppelin.com/",
+    "type": "CTF",
+    "description": "Page with different CTF challenge"
+    },
+    {
+    "name": "Ethernauts",
+    "value": "https://ethernaut.openzeppelin.com/",
+    "type": "CTF",
+    "description": "Great quiz for beginners in solidity auditing"
+    },
+    {
+    "name": "Mrstealyocrypto",
+    "value": "https://mrstealyocrypto.xyz/",
+    "type": "CTF",
+    "description": ""
+    },
+    {
+    "name": "Paradigm's CTF repo",
+    "value": "https://github.com/paradigmxyz/paradigm-ctf-2022/",
+    "type": "CTF",
+    "description": "More difficult CTF challenges"
+    },
+    {
+    "name": "Programtheblockchain",
+    "value": "https://programtheblockchain.com/",
+    "type": "Blog",
+    "description": ""
+    },
+    {
+    "name": "Quillhash's CTF repo",
+    "value": "https://github.com/Quillhash/Quill-CTFs",
+    "type": "CTF",
+    "description": ""
+    },
+    {
+    "name": "Solidity test",
+    "value": "https://www.rareskills.io/test-yourself",
+    "type": "CTF",
+    "description": ""
+    },
+    {
+    "name": "Solidity developer blog",
+    "value": "https://soliditydeveloper.com/",
+    "type": "Blog",
+    "description": "Great blog about the newest happening in BC technology"
+    },
+    {
+    "name": "Sherlock",
+    "value": "https://www.sherlock.xyz/",
+    "type": "Audit platform",
+    "description": "Platform that allows anyone to audit smart contracts"
+    },
+    {
+    "name": "Auditone",
+    "value": "https://www.auditone.io/",
+    "type": "Audit platform",
+    "description": "Centralised platform that brings together auditors and audit seekers"
+    },
+    {
+    "name": "Code4rena",
+    "value": "https://code4rena.com/",
+    "type": "Audit platform",
+    "description": "Platform that allows anyone to audit smart contracts"
+    },
+    {
+    "name": "Tenderly",
+    "value": "https://tenderly.co/",
+    "type": "Tools",
+    "description": "Tool that enables transaction simulations, also great for debugging"
+    },
+    {
+    "name": "Audithero",
+    "value": "https://audit-hero.com/",
+    "type": "Tools",
+    "description": "Tool that brings together all the vulnerabilities found on auditing platforms"
+    },
+    {
+    "name": "Flips",
+    "value": "https://flips.watch/",
+    "type": "Tools",
+    "description": "Tool to check the profit of NFT trades"
+    },
+    {
+    "name": "Icy tools",
+    "value": "https://icy.tools/discover",
+    "type": "Tools",
+    "description": "Page that implements many NFT related tools, that help with trading"
+    },
+    {
+    "name": "NFTgo",
+    "value": "https://nftgo.io/",
+    "type": "Tools",
+    "description": "Page with NFT market data"
+    },
+    {
+      "name": "Hackernoon",
+      "value": "https://hackernoon.com/coins",
+      "type": "Blog",
+      "description": "Blog page with focus on security in crypto"
+    },
+    {
+    "name": "Biggest vulnerabilities",
+    "value": "https://gitlab.com/gowtham_saravanan/master-smart-contracts/-/merge_requests/3/diffs#diff-content-6e664fbf06a6f25512e982f241db312edb02b83b",
+    "type": "Blog",
+    "description": "Article implementing solidity's greatest vulnerabilities and how to prevent them"
+    },
+    {
+    "name": "RainbowKit",
+    "value": "https://www.rainbowkit.com/",
+    "type": "Library",
+    "description": "Web3 library for walletconnect"
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    },
+    {
+    "name": "",
+    "value": "",
+    "type": "",
+    "description": ""
+    }
+  ]
+}
